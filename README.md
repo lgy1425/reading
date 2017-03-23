@@ -7,3 +7,4 @@ Fully Convolutional Networks for Semantic Segmentation (http://www.cv-foundation
 - upsampling 을 이용한 fully connected network Image sesmentation
 - https://github.com/shelhamer/fcn.berkeleyvision.org : 논문에서사용한 코드들 caffe framework를 
 - upsampling 을 tensorflow 로 구현 : http://warmspringwinds.github.io/tensorflow/tf-slim/2016/11/22/upsampling-and-image-segmentation-with-tensorflow-and-tf-slim/
+- http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/18/image-segmentation-with-tensorflow-using-cnns-and-conditional-random-fields/ : CNN을 이용한 image segmentation

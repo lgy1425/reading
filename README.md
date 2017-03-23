@@ -2,4 +2,7 @@
 
 Machine Learning & Deep Learning Reading Material
 
+Fully Convolutional Networks for Semantic Segmentation (http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 
+- upsampling 을 이용한 fully connected network Image sesmentation
+- upsampling 을 tensorflow 로 구현 : http://warmspringwinds.github.io/tensorflow/tf-slim/2016/11/22/upsampling-and-image-segmentation-with-tensorflow-and-tf-slim/

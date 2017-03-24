@@ -12,3 +12,7 @@
 #### Multi-Dimensional Recurrent Neural Networks (https://arxiv.org/pdf/0705.2011.pdf)
 
 - Multi Dimensions RNN (MDRNN) 을 이용한 image segmentation
+
+#### https://github.com/tencia/video_predict
+
+- video 를 판별 CNN + RNN

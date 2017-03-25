@@ -16,3 +16,8 @@
 #### https://github.com/tencia/video_predict
 
 - video 를 판별 CNN + RNN
+
+
+#### An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition (https://arxiv.org/pdf/1507.05717.pdf)
+
+- https://github.com/carpedm20/lstm-char-cnn-tensorflow/blob/master/models/LSTMTDNN.py

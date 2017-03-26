@@ -23,3 +23,4 @@
 - 15년 논문이지만 기본적인 CRNN의 개념을 잘 설명하고 있다.
 - https://github.com/carpedm20/lstm-char-cnn-tensorflow/blob/master/models/LSTMTDNN.py
 - https://github.com/tflearn/tflearn/blob/master/examples/nlp/bidirectional_lstm.py -> bidirectional lstm 
+- https://gist.github.com/kastnerkyle/90a6d0f6789e15c38e97 : multidimensional rnn

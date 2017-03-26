@@ -20,4 +20,6 @@
 
 #### An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition (https://arxiv.org/pdf/1507.05717.pdf)
 
+- 15년 논문이지만 기본적인 CRNN의 개념을 잘 설명하고 있다.
 - https://github.com/carpedm20/lstm-char-cnn-tensorflow/blob/master/models/LSTMTDNN.py
+- https://github.com/tflearn/tflearn/blob/master/examples/nlp/bidirectional_lstm.py -> bidirectional lstm 

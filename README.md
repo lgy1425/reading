@@ -32,3 +32,8 @@
 
 #### Financial Market Time Series Prediction with Recurrent Neural (http://cs229.stanford.edu/proj2012/BernalFokPidaparthi-FinancialMarketTimeSeriesPredictionwithRecurrentNeural.pdf)
 - http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/ 
+
+
+#### Fast R-CNN (http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
+
+

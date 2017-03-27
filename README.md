@@ -25,7 +25,7 @@
 - https://github.com/tflearn/tflearn/blob/master/examples/nlp/bidirectional_lstm.py -> bidirectional lstm 
 - https://gist.github.com/kastnerkyle/90a6d0f6789e15c38e97 : multidimensional rnn
 
-
+#### Deep Residual Learning for Image Recognition (https://arxiv.org/pdf/1512.03385.pdf)
 #### Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning(https://arxiv.org/pdf/1602.07261.pdf)
 
 - https://github.com/xuyuwei/resnet-tf : resnet 모델을 tensorflow 로  

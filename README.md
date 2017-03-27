@@ -28,4 +28,7 @@
 #### Deep Residual Learning for Image Recognition (https://arxiv.org/pdf/1512.03385.pdf)
 #### Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning(https://arxiv.org/pdf/1602.07261.pdf)
 
-- https://github.com/xuyuwei/resnet-tf : resnet 모델을 tensorflow 로  
+- https://github.com/xuyuwei/resnet-tf : resnet 모델을 tensorflow로 
+
+#### Financial Market Time Series Prediction with Recurrent Neural (http://cs229.stanford.edu/proj2012/BernalFokPidaparthi-FinancialMarketTimeSeriesPredictionwithRecurrentNeural.pdf)
+- http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/ 

@@ -24,3 +24,7 @@
 - https://github.com/carpedm20/lstm-char-cnn-tensorflow/blob/master/models/LSTMTDNN.py
 - https://github.com/tflearn/tflearn/blob/master/examples/nlp/bidirectional_lstm.py -> bidirectional lstm 
 - https://gist.github.com/kastnerkyle/90a6d0f6789e15c38e97 : multidimensional rnn
+
+
+#### Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning(https://arxiv.org/pdf/1602.07261.pdf)
+

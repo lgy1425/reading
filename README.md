@@ -28,3 +28,4 @@
 
 #### Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning(https://arxiv.org/pdf/1602.07261.pdf)
 
+- https://github.com/xuyuwei/resnet-tf : resnet 모델을 tensorflow 로  

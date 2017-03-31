@@ -40,3 +40,5 @@
 
 
 #### Region-based Convolutional Networks for Accurate Object Detection and Segmentation (https://people.eecs.berkeley.edu/~rbg/papers/pami/rcnn_pami.pdf)
+
+#### http://laonple.blog.me/220873446440 (딥러닝 관련 블로그)

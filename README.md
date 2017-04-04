@@ -26,14 +26,13 @@
 - https://gist.github.com/kastnerkyle/90a6d0f6789e15c38e97 : multidimensional rnn
 
 #### Deep Residual Learning for Image Recognition (https://arxiv.org/pdf/1512.03385.pdf)
+- https://github.com/KaimingHe/deep-residual-networks : Resnet 을 카페로 
 #### Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning(https://arxiv.org/pdf/1602.07261.pdf)
 
 - https://github.com/xuyuwei/resnet-tf : resnet 모델을 tensorflow로 
 
 #### Financial Market Time Series Prediction with Recurrent Neural (http://cs229.stanford.edu/proj2012/BernalFokPidaparthi-FinancialMarketTimeSeriesPredictionwithRecurrentNeural.pdf)
 - http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/ 
-
-
 #### Fast R-CNN (http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
 
 - http://warmspringwinds.github.io/tensorflow/tf-slim/2016/11/22/upsampling-and-image-segmentation-with-tensorflow-and-tf-slim/

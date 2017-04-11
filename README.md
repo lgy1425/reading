@@ -49,4 +49,10 @@
 #### Large scale deep learning for computer aided detection of
 mammographic lesions http://ac.els-cdn.com/S1361841516301244/1-s2.0-S1361841516301244-main.pdf?_tid=398e52c4-1db1-11e7-91e1-00000aacb361&acdnat=1491803447_ba29f99efa439280d5b6478108bff0c2
 
- - 유방암 진단 , data augmentation 시 elastic distortion 을 
+ - 유방암 진단 , data augmentation 시 elastic distortion 을 수행
+ 
+
+#### Convolutional Neural Pyramid for Image Processing (https://arxiv.org/pdf/1704.02071.pdf)
+
+- 내일(4/12) 꼭 읽기
+

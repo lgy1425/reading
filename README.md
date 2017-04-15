@@ -54,5 +54,6 @@ mammographic lesions http://ac.els-cdn.com/S1361841516301244/1-s2.0-S13618415163
 
 #### Convolutional Neural Pyramid for Image Processing (https://arxiv.org/pdf/1704.02071.pdf)
 
-- 내일(4/12) 꼭 읽기
+
+#### A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection(https://arxiv.org/pdf/1704.03414.pdf)
 

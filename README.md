@@ -57,3 +57,5 @@ mammographic lesions http://ac.els-cdn.com/S1361841516301244/1-s2.0-S13618415163
 
 #### A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection(https://arxiv.org/pdf/1704.03414.pdf)
 
+#### Spatial Transformer Networks (http://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf)
+- 구현 : https://github.com/skaae/transformer_network/blob/master/transformerlayer_test.py

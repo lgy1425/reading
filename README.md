@@ -63,3 +63,6 @@ mammographic lesions http://ac.els-cdn.com/S1361841516301244/1-s2.0-S13618415163
 #### Dataset Augmentation for Pose and Lighting Invariant Face Recognition(https://arxiv.org/pdf/1704.04326v1.pdf)
 
 #### U-Net: Convolutional Networks for Biomedical Image Segmentation (https://arxiv.org/pdf/1505.04597.pdf)
+
+#### Knowledge Transfer for Melanoma Screening with Deep Learning (https://arxiv.org/pdf/1703.07479.pdf)
+- 데이터수가 부족한 의료데이터면 transfer learning 이 효과적 -> pre-trained 를 적극 적극 활용할 것

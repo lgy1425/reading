@@ -78,3 +78,7 @@ mammographic lesions http://ac.els-cdn.com/S1361841516301244/1-s2.0-S13618415163
 
 #### https://github.com/beamandrew/medical-data
  - medical data source 를 정리해 놓은 github
+
+
+#### https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
+- VAE 튜토리얼 

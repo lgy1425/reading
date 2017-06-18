@@ -70,3 +70,7 @@ mammographic lesions http://ac.els-cdn.com/S1361841516301244/1-s2.0-S13618415163
 
 
 #### A Review on Deep Learning Techniques Applied to Semantic Segmentation (https://arxiv.org/pdf/1704.06857v1.pdf)
+
+
+#### Learning Deep Representations for Scene Labeling with Guided Supervision(https://arxiv.org/pdf/1706.02493v1.pdf)
+ - CNN 을 적용할 때 Sub class 에 관한 paper

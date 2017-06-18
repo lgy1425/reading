@@ -74,3 +74,7 @@ mammographic lesions http://ac.els-cdn.com/S1361841516301244/1-s2.0-S13618415163
 
 #### Learning Deep Representations for Scene Labeling with Guided Supervision(https://arxiv.org/pdf/1706.02493v1.pdf)
  - CNN 을 적용할 때 Sub class 에 관한 paper
+
+
+#### https://github.com/beamandrew/medical-data
+ - medical data source 를 정리해 놓은 github

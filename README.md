@@ -82,3 +82,6 @@ mammographic lesions http://ac.els-cdn.com/S1361841516301244/1-s2.0-S13618415163
 
 #### https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
 - VAE 튜토리얼 
+
+#### https://arxiv.org/pdf/1706.00712.pdf
+- Convolutional Neural Networks for Medical Image Analysis: Full Training or Fine Tuning?

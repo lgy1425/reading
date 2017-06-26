@@ -86,5 +86,8 @@ mammographic lesions http://ac.els-cdn.com/S1361841516301244/1-s2.0-S13618415163
 #### https://arxiv.org/pdf/1706.00712.pdf
 - Convolutional Neural Networks for Medical Image Analysis: Full Training or Fine Tuning?
 
-### https://arxiv.org/pdf/1606.00915.pdf
+#### https://arxiv.org/pdf/1606.00915.pdf
  - DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
+ 
+#### https://arxiv.org/pdf/1509.01626.pdf
+- char CNN

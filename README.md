@@ -93,3 +93,7 @@ mammographic lesions http://ac.els-cdn.com/S1361841516301244/1-s2.0-S13618415163
 - char CNN
 #### http://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=220952339643
 - atrous conv 설명한 
+
+#### https://www.researchgate.net/publication/304163398_Deep_Learning_for_Identifying_Metastatic_Breast_Cancer
+- Deep Learning for Identifying Metastatic Breast Cancer
+

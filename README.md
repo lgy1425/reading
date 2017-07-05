@@ -99,3 +99,6 @@ mammographic lesions http://ac.els-cdn.com/S1361841516301244/1-s2.0-S13618415163
 
 #### https://arxiv.org/pdf/1702.01816.pdf
 - Prediction of Kidney Function from Biopsy Images Using Convolutional Neural Networks
+
+#### https://arxiv.org/pdf/1511.06434.pdf
+- UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS

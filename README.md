@@ -108,3 +108,6 @@ mammographic lesions http://ac.els-cdn.com/S1361841516301244/1-s2.0-S13618415163
 
 #### http://cs.nyu.edu/~akv245/advtext/report.pdf
 - Adversarial Objectives for Text Generation
+
+#### https://summer.kics.or.kr/storage/paper/event/20170621_workshop/publish/9A-3.pdf
+- Neural Network 기반의 Generative 모델 챗봇 기술 분석

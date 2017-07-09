@@ -102,3 +102,6 @@ mammographic lesions http://ac.els-cdn.com/S1361841516301244/1-s2.0-S13618415163
 
 #### https://arxiv.org/pdf/1511.06434.pdf
 - UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS
+
+#### https://web.stanford.edu/class/cs224n/reports/2761133.pdf
+ - Text Generation using Generative Adversarial Training

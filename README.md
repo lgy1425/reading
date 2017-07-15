@@ -114,3 +114,6 @@ mammographic lesions http://ac.els-cdn.com/S1361841516301244/1-s2.0-S13618415163
 
 #### https://arxiv.org/pdf/1606.03657.pdf
 - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
+
+#### https://arxiv.org/pdf/1706.03850.pdf
+- Adversarial Feature Matching for Text Generation

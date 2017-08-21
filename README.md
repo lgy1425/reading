@@ -117,3 +117,6 @@ mammographic lesions http://ac.els-cdn.com/S1361841516301244/1-s2.0-S13618415163
 
 #### https://arxiv.org/pdf/1706.03850.pdf
 - Adversarial Feature Matching for Text Generation
+
+#### https://arxiv.org/pdf/1505.03540.pdf
+ - Brain Tumor Segmentation with Deep Neural Networks
